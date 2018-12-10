@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
-encoding//base_chapter_chapter3/SparseTensor_demo.py=utf-8
-encoding//base_chapter_chapter3/op_demo.py=utf-8
-encoding//base_chapter_chapter3/tensor_demo.py=utf-8
+encoding//base_chapter/base_chapter_chapter3/SparseTensor_demo.py=utf-8
+encoding//base_chapter/base_chapter_chapter3/op_demo.py=utf-8
+encoding//base_chapter/base_chapter_chapter3/session_demo.py=utf-8
+encoding//base_chapter/base_chapter_chapter3/tensor_demo.py=utf-8
 encoding/<project>=UTF-8
